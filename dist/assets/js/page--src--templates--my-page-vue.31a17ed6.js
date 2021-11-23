@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{kboC:function(e,t,n){"use strict";n.r(t);var a={name:"MyPage",metaInfo:{title:"hello",meta:[{name:"author",content:"小宇宙"}]}},l=n("KHd+"),o=Object(l.a)(a,(function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("这是my-page页面  是动态生成的")])}),[],!1,null,null,null);t.default=o.exports}}]);

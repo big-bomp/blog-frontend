@@ -3,7 +3,7 @@
     <!-- Page Header -->
   <header class="masthead" 
   :style="{
-    backgroundImage:`url('${ GRIDSOME_API_URL + $page.tag.posts[0].cover.url }')`
+    backgroundImage:`url('${ $page.tag.posts[0].cover.url }')`
   }">
     <div class="overlay"></div>
     <div class="container">
